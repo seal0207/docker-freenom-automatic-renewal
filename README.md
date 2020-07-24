@@ -1,6 +1,6 @@
 # freenom-automatic-renewal（免费域名自动续期）
 [![Docker Pulls](https://img.shields.io/docker/pulls/rouroux/freenom-automatic-renewal.svg)](https://hub.docker.com/r/rouroux/freenom-automatic-renewal) [![GitHub license](https://img.shields.io/github/license/RouRouX/docker-freenom-automatic-renewal)](https://github.com/RouRouX/docker-freenom-automatic-renewal/blob/master/LICENSE)
-
+ 
 
 ## 执行命令：
 
